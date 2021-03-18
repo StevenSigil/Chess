@@ -1,0 +1,6 @@
+.idea
+
+venv
+assets
+
+__pycache__
